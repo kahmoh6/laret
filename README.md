@@ -3,7 +3,7 @@
 <head>
     <title>Webpage Design</title>
     <!-- Link to your external CSS file -->
-  <link rel="stylesheet" href="Styles/style.css" />
+  <link rel="stylesheet" href="Style">
 </head> 
  <body>
        <div class="main">
