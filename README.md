@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
     <title>Webpage Design</title>
-  <link rel="stylesheet" href="Styles/style.css"to 
+    <!-- Link to your external CSS file -->
+  <link rel="stylesheet" href="Styles/style.css" />
 </head> 
  <body>
        <div class="main">
